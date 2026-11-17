@@ -36,7 +36,7 @@ Requirements:
 - A **dedicated** wallet holding a few cents of USDC on Base. Never use a main wallet.
 
 ```bash
-git clone https://agentgate-source.pages.dev/blockchainiq-x402-agentkit/blockchainiq-x402-agentkit.git
+git clone https://github.com/Duffey234/blockchainiq-x402-agentkit.git
 cd blockchainiq-x402-agentkit
 npm install
 npm test          # offline: mocked 402 + mocked settlement, no wallet, no money
